@@ -1,2 +1,2 @@
 # meta-trimble
-this is where all the trimble spesific meta data is housed
+this is where all the trimble specific meta data is housed
