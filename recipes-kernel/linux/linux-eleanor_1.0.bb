@@ -12,7 +12,7 @@ SUMMARY = "Linux kernel for Eleanor Board \
 Based on FSL Community BSP Linux mainline kernel with backported features and fixes"
 
 DESCRIPTION = "Changes to FSL Community BSP mainline kernel to acomodate Trimble IMC board."
-
+LICENSE = "MIT"
 
 SRC_URI += "file://imx51-imc.dts \
 "
